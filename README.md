@@ -9,7 +9,7 @@ Tasks include:
   - The *Material and Social Deprivation Index* (Pampalon Index)[^64]  
   - The [**Canadian Index of Multiple Deprivation (CIMD)**](https://open.canada.ca/data/en/dataset/5c670585-97ed-4e6a-a607-30fab940ff88)[^65]  
 
-In addition, Node 4 will work with the Hub to develop **individual- and family-level indicators** of income, poverty, and food security. This will build on Notten’s past contributions to poverty measurement and evaluation[^66]-[^71], and will align with **established methods in welfare economics and poverty studies**, such as Canada’s official poverty line, the [**Market Basket Measure (MBM)**](https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2022008-eng.htm)[^72].  
+In addition, Node 4 will work with the [**Hub**](https://github.com/csdul/hub_individual) to develop **individual- and family-level indicators** of income, poverty, and food security. This will build on Notten’s past contributions to poverty measurement and evaluation[^66]-[^71], and will align with **established methods in welfare economics and poverty studies**, such as Canada’s official poverty line, the [**Market Basket Measure (MBM)**](https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2022008-eng.htm)[^72].  
 
 ## List of Indicators
 

@@ -1,15 +1,15 @@
 # Node 4 - Material Circumstances
 
-The [**Canadian Population Health Survey (CPHS)**](https://www.statcan.gc.ca/en/microdata/data-centres/data/cphs) links self-reported health outcomes from the CCHS with family-level income data drawn from CRA tax files. However, it does not include **area-level income measures**. Area-based income-related health inequality research in Canada has typically relied on Census dissemination area (DA)-level income data, which is only collected every five years. [**Dr. Geranda Notten**](https://gerandanotten.wordpress.com/research-3/) will lead efforts to develop a **new year-over-year DA-level income indicator** using the [**Longitudinal Administrative Databank (LAD)**](https://www.statcan.gc.ca/en/microsimulation/labs), which contains tax file records for 20% of Canadians between 1982 and 2019. The key indicator will be **DA median after-tax income**, reflecting established approaches for measuring welfare and capability through income[^61][^62].  
+The [**Canadian Population Health Survey (CPHS)**](https://www.statcan.gc.ca/en/microdata/data-centres/data/cphs) links self-reported health outcomes from the CCHS with family-level income data drawn from CRA tax files. However, it does not include **area-level income measures**. Area-based income-related health inequality research in Canada has typically relied on Census dissemination area (DA)-level income data, which is only collected every five years. [**Dr. Geranda Notten**](https://gerandanotten.wordpress.com/research-3/) will lead efforts to develop a **new year-over-year DA-level income indicator** using the [**Longitudinal Administrative Databank (LAD)**](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4107), which contains tax file records for 20% of Canadians between 1982 and 2019. The key indicator will be **DA median after-tax income**, reflecting established approaches for measuring welfare and capability through income[^61][^62].  
 
 Tasks include:  
 - Constructing DA-level median after-tax income variables from LAD.  
 - Validating the new variables by comparing their impact on health inequality calculations against existing measures, such as:  
-  - [**PCCF+**](https://www.cihi.ca/en/measuring-health-inequalities-a-toolkit-area-level-equity-stratifiers-using-pccf-and-pccf) stratifiers[^63]  
+  - [**PCCF+**](https://www150.statcan.gc.ca/n1/en/catalogue/82F0086X) stratifiers[^63]  
   - The *Material and Social Deprivation Index* (Pampalon Index)[^64]  
-  - The [**Canadian Index of Multiple Deprivation (CIMD)**](https://www150.statcan.gc.ca/n1/en/catalogue/45200001)[^65]  
+  - The [**Canadian Index of Multiple Deprivation (CIMD)**](https://open.canada.ca/data/en/dataset/5c670585-97ed-4e6a-a607-30fab940ff88)[^65]  
 
-In addition, Node 4 will work with the Hub to develop **individual- and family-level indicators** of income, poverty, and food security. This will build on Notten’s past contributions to poverty measurement and evaluation[^66]-[^71], and will align with **established methods in welfare economics and poverty studies**, such as Canada’s official poverty line, the [**Market Basket Measure (MBM)**](https://www.canada.ca/en/employment-social-development/programs/poverty-reduction/market-basket-measure.html)[^72].  
+In addition, Node 4 will work with the Hub to develop **individual- and family-level indicators** of income, poverty, and food security. This will build on Notten’s past contributions to poverty measurement and evaluation[^66]-[^71], and will align with **established methods in welfare economics and poverty studies**, such as Canada’s official poverty line, the [**Market Basket Measure (MBM)**](https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2022008-eng.htm)[^72].  
 
 ## List of Indicators
 

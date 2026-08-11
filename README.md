@@ -12,7 +12,8 @@ Tasks include:
 In addition, Node 4 will work with the [**Hub**](https://github.com/csdul/hub_individual) to develop **individual- and family-level indicators** of income, poverty, and food security. This will build on Notten’s past contributions to poverty measurement and evaluation[^66]-[^71], and will align with **established methods in welfare economics and poverty studies**, such as Canada’s official poverty line, the [**Market Basket Measure (MBM)**](https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2022008-eng.htm)[^72].  
 
 ## List of Indicators
-
+- [Income Quintiles](https://github.com/csdul/material_circumstances/tree/main/income_quintiles)
+  
 ## References
 [^61]: Murphy B, Zhang X, Dion C. *Revising Statistics Canada’s Low Income Measure (LIM).* Statistics Canada, Income Statistics Division; 2010.  
 [^62]: Brady D. *Rethinking the Sociological Measurement of Poverty.* *Soc Forces.* 2003;81(3):715-751.  

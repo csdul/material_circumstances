@@ -205,7 +205,7 @@ Public or releasable supporting files may include:
 
 - [**Data**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/data): Contains the raw and/or processed data used if available in an open source.
 
-- [**Results**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/results): Contains indicators calculated.
+- [**Results**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/results): Contains the indicators tables.
 
 # References
 

@@ -1,4 +1,4 @@
-# Sample Information
+# Results Overview
 
 ## Figure 1. Rounded Frequencies per Year
 

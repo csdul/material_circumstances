@@ -199,34 +199,13 @@ Public or releasable supporting files may include:
 
 # Files
 
-The indicator folder follows the standard CSDUL structure:
+- [**Codes**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/codes): Contains the Stata dofiles and algorithms used to extract, classify, spatially aggregate, and calculate the indicators.
 
-```text
-income_quintiles/
-├── codes/
-├── data/
-├── documents/
-├── results/
-└── README.md
-```
+- [**Documents**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/documents): Includes detailed documentation describing the methodology, indicator development, assumptions, limitations, and codebook.
 
-### `codes`
+- [**Data**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/data): Contains the raw and/or processed data used if available in an open source.
 
-Scripts used to prepare linked data and construct the indicators.
-
-### `data`
-
-Public or released input and intermediate datasets only.
-
-### `documents`
-
-Technical documentation, methodological notes, and the completed CSDUL indicator-addition form.
-
-### `results`
-
-Released indicator tables and validation outputs.
-
----
+- [**Results**](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/results): Contains indicators calculated.
 
 # References
 

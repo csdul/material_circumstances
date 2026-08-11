@@ -120,7 +120,7 @@ The technical documentation identifies the following working files:
 2.mbm_region.do
 ```
 
-The actual code files should be added to the `codes/` folder once approved for CSDUL-RDC/CSDUL-OUT.
+The actual code files should be added to the [codes](https://github.com/csdul/material_circumstances/tree/main/income_quintiles/codes) folder once approved for CSDUL-RDC/CSDUL-OUT.
 
 ---
 
